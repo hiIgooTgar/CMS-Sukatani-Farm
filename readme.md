@@ -13,7 +13,6 @@ Your task is to develop a website supported by a content management system. You 
 <br>
 
 ## Content Management System
-<h2>Name Database : wp_lks_cms</h2>
 <h3>For administration tasks, we need two user profiles, Admin and Editor :</h3>
 <h4>The Admin user - access to the complete WordPress main dashboard.</h4>
 <ul>
@@ -26,6 +25,9 @@ Your task is to develop a website supported by a content management system. You 
 	<li>Password: : 24editor#</li>
 </ul>
 <p>We want the CMS login page to be white-label. That means the login page should not show the CMS default logo and add all the editor's logos.</p>
+<br>
+
+<h2>Name Database : wp_lks_cms</h2>
 
 ## How to use this CMS
 <ol>
